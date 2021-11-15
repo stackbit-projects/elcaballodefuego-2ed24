@@ -24,6 +24,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: button
+    title: Descripcio
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
