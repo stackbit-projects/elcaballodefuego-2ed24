@@ -70,7 +70,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Fresh Theme
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: >-
+        París, Congo, Gaza. Tres libros que llevan al lector por un viaje donde
+        se expone el amor, el odio, la vida y la muerte.
     - name: 'twitter:image'
       value: /images/logo.png
       relativeUrl: true
