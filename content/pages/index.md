@@ -51,7 +51,15 @@ seo:
       value: El Caballo de Fuego
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: >-
+        Florencia Bonelli, escritora argentina, es la autora de la trilogía
+        Caballo de fuego: París, Congo, Gaza. Tres libros que llevan al lector
+        por un viaje donde se expone el amor, el odio, la vida y la muerte. A su
+        vez, narra la situación política, económica y religiosa de congoleños,
+        palestinos e israelitas en un momento determinado de la historia
+        contemporánea. Florencia hace del lector un participante emotivo por
+        vivir un amor en un contexto donde el poder y la injusticia social se
+        visten de derechos humanos.
       keyName: property
     - name: 'og:image'
       value: /images/logo.png
