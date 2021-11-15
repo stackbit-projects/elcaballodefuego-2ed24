@@ -12,11 +12,15 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Florencia Bonelli, escritora argentina, es la autora de la trilogía
+      Caballo de fuego: *París, Congo, Gaza*. Tres libros que llevan al lector
+      por un viaje donde se expone el amor, el odio, la vida y la muerte. A su
+      vez, narra la situación política, económica y religiosa de congoleños,
+      palestinos e israelitas en un momento determinado de la historia
+      contemporánea. Florencia hace del lector un participante emotivo por vivir
+      un amor en un contexto donde el poder y la injusticia social se visten de
+      derechos humanos.
     actions:
       - label: Contact Us
         url: /contact
