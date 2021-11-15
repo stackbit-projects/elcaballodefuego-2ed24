@@ -28,7 +28,7 @@ sections:
   - section_id: recent-posts
     type: section_posts
     title: Artículos Recientes
-    posts_number: 4
+    posts_number: 6
     actions:
       - label: View Blog
         url: blog/index.html
