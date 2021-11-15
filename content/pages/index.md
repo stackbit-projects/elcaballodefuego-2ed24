@@ -68,7 +68,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fresh Theme
+      value: El Caballo de Fuego
     - name: 'twitter:description'
       value: >-
         París, Congo, Gaza. Tres libros que llevan al lector por un viaje donde
