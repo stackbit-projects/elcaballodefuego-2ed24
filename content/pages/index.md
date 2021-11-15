@@ -21,7 +21,7 @@ sections:
       un amor en un contexto donde el poder y la injusticia social se visten de
       derechos humanos.
     actions:
-      - label: Contact Us
+      - label: Contact
         url: /contact
         style: button
     title: Descripción
