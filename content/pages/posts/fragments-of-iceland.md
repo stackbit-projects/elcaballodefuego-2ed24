@@ -8,7 +8,7 @@ date: '2021-11-16'
 thumb_img_path: images/7.jpg
 thumb_img_alt: Caballos
 content_img_path: images/7.jpg
-content_img_alt: Icelandic horses
+content_img_alt: Caballos
 seo:
   title: Fragments of Iceland
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
