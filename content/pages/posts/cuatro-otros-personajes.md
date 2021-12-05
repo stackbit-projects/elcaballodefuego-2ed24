@@ -1,5 +1,5 @@
 ---
-title: Personajes Secundarios - Primera Parte
+title: Cuatro Otros Personajes Secundarios - Primera Parte
 excerpt: >-
   Eliah Al Saud fundó a finales del 95 una empresa militar privada:
   La Mercure S.A. Information and Security Services en sociedad con
