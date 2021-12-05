@@ -44,7 +44,7 @@ sections:
     title: Artículos Recientes
     posts_number: 12
     actions:
-      - label: View Blog
+      - label: Ver Blog
         url: blog/index.html
         style: button
 seo:
