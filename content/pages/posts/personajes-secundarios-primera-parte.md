@@ -4,7 +4,7 @@ excerpt: >-
   Eliah Al Saud fundó a finales del 95 una empresa militar privada:
   La Mercure S.A. Information and Security Services en sociedad con
   Anthony Hill, Michael Thorton y Peter Ramsay.
-date: '2021-11-16'
+date: '2021-11-02'
 seo:
   title: Personajes Secundarios - Primera Parte
   description: >-
