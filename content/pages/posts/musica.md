@@ -1,22 +1,22 @@
 ---
-title: Personajes Secundarios - Segunda Parte
+title: Musica
 excerpt: >-
-  La Diana/Mariyana, Sándor/Sanny y Leila provenían de una región de Bosnia poblada por islámicos. Mariyana no aceptaba que la llamaran por su nombre después de lo que le sucedió en el campo de concentración de Rogatica durante la guerra de Bosnia.
+  Desde el comienzo, la música se convierte en un personaje más de la trilogía. Está presente en las tres obras. Vemos como Eliah se reunía en la sala de música de su casa y en su vehículo el Aston Martin, siempre estaba escuchando música.
 date: '2021-11-16'
 seo:
-  title: Personajes Secundarios - Segunda Parte
+  title: Musica
   description: >-
-    La Diana/Mariyana, Sándor/Sanny y Leila provenían de una región de Bosnia poblada por islámicos. Mariyana no aceptaba que la llamaran por su nombre después de lo que le sucedió en el campo de concentración de Rogatica durante la guerra de Bosnia.
+    Desde el comienzo, la música se convierte en un personaje más de la trilogía. Está presente en las tres obras. Vemos como Eliah se reunía en la sala de música de su casa y en su vehículo el Aston Martin, siempre estaba escuchando música.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Personajes Secundarios - Segunda Parte
+      value: Musica
       keyName: property
     - name: 'og:description'
       value: >-
-        La Diana/Mariyana, Sándor/Sanny y Leila provenían de una región de Bosnia poblada por islámicos. Mariyana no aceptaba que la llamaran por su nombre después de lo que le sucedió en el campo de concentración de Rogatica durante la guerra de Bosnia.
+        Desde el comienzo, la música se convierte en un personaje más de la trilogía. Está presente en las tres obras. Vemos como Eliah se reunía en la sala de música de su casa y en su vehículo el Aston Martin, siempre estaba escuchando música.
       keyName: property
     - name: 'og:image'
       value: images/2.jpg
@@ -25,10 +25,10 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Personajes Secundarios - Segunda Parte
+      value: Musica
     - name: 'twitter:description'
       value: >-
-        La Diana/Mariyana, Sándor/Sanny y Leila provenían de una región de Bosnia poblada por islámicos. Mariyana no aceptaba que la llamaran por su nombre después de lo que le sucedió en el campo de concentración de Rogatica durante la guerra de Bosnia.
+        Desde el comienzo, la música se convierte en un personaje más de la trilogía. Está presente en las tres obras. Vemos como Eliah se reunía en la sala de música de su casa y en su vehículo el Aston Martin, siempre estaba escuchando música.
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
