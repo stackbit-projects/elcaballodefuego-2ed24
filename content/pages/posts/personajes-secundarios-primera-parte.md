@@ -5,10 +5,6 @@ excerpt: >-
   La Mercure S.A. Information and Security Services en sociedad con
   Anthony Hill, Michael Thorton y Peter Ramsay.
 date: '2021-11-16'
-thumb_img_path: images/2.jpg
-thumb_img_alt: Fushimi Inari Shrine in Kyoto
-content_img_path: images/2.jpg
-content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
   title: Personajes Secundarios - Primera Parte
   description: >-
