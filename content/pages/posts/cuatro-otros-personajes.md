@@ -10,7 +10,7 @@ thumb_img_alt: Fushimi Inari Shrine in Kyoto
 content_img_path: images/2.jpg
 content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
-  title: Personajes Secundarios - Primera Parte
+  title: Cuatro Otros Personajes
   description: >-
     Eliah Al Saud fundó a finales del 95 una empresa militar privada:
     La Mercure S.A. Information and Security Services en sociedad con
