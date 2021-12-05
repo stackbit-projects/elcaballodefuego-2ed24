@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Personajes Secundarios
+      value: Personajes Secundarios - Primera Parte
     - name: 'twitter:description'
       value: >-
         Eliah Al Saud fundó a finales del 95 una empresa militar privada:
