@@ -2,7 +2,7 @@
 title: Musica
 excerpt: >-
   Desde el comienzo, la música se convierte en un personaje más de la trilogía. Está presente en las tres obras. Vemos como Eliah se reunía en la sala de música de su casa y en su vehículo el Aston Martin, siempre estaba escuchando música.
-date: '2021-11-16'
+date: '2021-11-06'
 seo:
   title: Musica
   description: >-
