@@ -8,7 +8,7 @@ excerpt: >-
   momento determinado de la historia contemporánea. Florencia hace del lector un
   participante emotivo por vivir un amor en un contexto donde el poder y la
   injusticia social se visten de derechos humanos.
-date: '2021-11-16'
+date: '2021-11-01'
 seo:
   title: Fragments of Iceland
   description: Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
