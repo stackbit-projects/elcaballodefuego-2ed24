@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Personajes Secundarios - Primera Parte
+      value: Cuatro Otros Personajes
       keyName: property
     - name: 'og:description'
       value: >-
