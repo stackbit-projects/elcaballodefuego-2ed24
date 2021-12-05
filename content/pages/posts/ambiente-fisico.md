@@ -3,10 +3,6 @@ title: Ambiente Fisico
 excerpt: >-
   La trilogía nos describe diferentes ambientes a lo largo de la misma. En la primera parte, las acciones se desarrollan en París, en los sitios más emblemáticos por donde se pasean los personajes al comienzo de su historia de amor.
 date: '2021-11-16'
-thumb_img_path: images/2.jpg
-thumb_img_alt: Fushimi Inari Shrine in Kyoto
-content_img_path: images/2.jpg
-content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
   title: Ambiente Fisico
   description: >-
