@@ -10,9 +10,7 @@ content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
   title: Cuatro Otros Personajes
   description: >-
-    Eliah Al Saud fundó a finales del 95 una empresa militar privada:
-    La Mercure S.A. Information and Security Services en sociedad con
-    Anthony Hill, Michael Thorton y Peter Ramsay.
+    Ojos y  pelo negros, boca grande, piel oscura, figura esbelta, actitud desfachatada y ocurrente, tan espontánea y natural en su alegría. Es la amiga incondicional y hermana del alma de Matilde desde que eran  niñas.
   extra:
     - name: 'og:type'
       value: article
@@ -22,9 +20,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Eliah Al Saud fundó a finales del 95 una empresa militar privada:
-        La Mercure S.A. Information and Security Services en sociedad con
-        Anthony Hill, Michael Thorton y Peter Ramsay.
+        Ojos y  pelo negros, boca grande, piel oscura, figura esbelta, actitud desfachatada y ocurrente, tan espontánea y natural en su alegría. Es la amiga incondicional y hermana del alma de Matilde desde que eran  niñas.
       keyName: property
     - name: 'og:image'
       value: images/2.jpg
@@ -36,86 +32,187 @@ seo:
       value: Cuatro Otros Personajes
     - name: 'twitter:description'
       value: >-
-        Eliah Al Saud fundó a finales del 95 una empresa militar privada:
-        La Mercure S.A. Information and Security Services en sociedad con
-        Anthony Hill, Michael Thorton y Peter Ramsay.
+        Ojos y  pelo negros, boca grande, piel oscura, figura esbelta, actitud desfachatada y ocurrente, tan espontánea y natural en su alegría. Es la amiga incondicional y hermana del alma de Matilde desde que eran  niñas.
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
 layout: post
 ---
 
-**La Mercure**
+**Juana Folicuré**:
 
-Eliah Al Saud fundó a finales del 95 una empresa militar privada: La Mercure S.A. Information and Security Services en sociedad con Anthony Hill, Michael Thorton y Peter Ramsay. Es el socio mayoritario. La Mercure es una empresa de seguridad, radicada legalmente en Papúa-Nueva Guinea y sus cuarteles generales operan desde París. En París,  alquilaba dos suites del hotel George V en el último piso, donde funcionaban las  oficinas de la empresa, bien equipadas y protegidas con contramedidas electrónicas. Constituían la fachada de la empresa que la dotaba de un viso de normalidad y cumplían con el papeleo legal y administrativo.  
+Ojos y  pelo negros, boca grande, piel oscura, figura esbelta, actitud desfachatada y ocurrente, tan espontánea y natural en su alegría. Es la amiga incondicional y hermana del alma de Matilde desde que eran  niñas. Estudiaron en la Academia Argüello junto con Ezequiel. Posteriormente, tomaron la carrera de medicina. En Buenos Aires hace su especialidad, en uno de los mejores hospitales pediátricos de Sudamérica: el Hospital Garrahan.  Solidaria con Matilde, inicia los pasos para ingresar a MQC donde son admitidas, lo cual le exige ir a París y terminar de cumplir con las demás directrices de la institución, hasta que llegue el momento de cumplir con la misión en La República Democrática del Congo en la zona de los Kivus.
 
-En cambio, su centro neurálgico y operativo se hallaba en el sótano de la casa de Eliah Al Saud  en la Avenida Elisée Reclus, a tres pisos bajo tierra.  Al-Saud había creado un centro de mando con tecnología de punta que le permitía recibir, enviar y analizar miles de datos por segundo a través de una red de fibra óptica segura. La planta la ocupaban, varias mesas dispuestas en filas paralelas, donde los operadores, sentados frente a computadoras, con auriculares en sus cabezas y micrófonos cerca de sus bocas, procesaban la información o enviaban datos a los grupos asignados a misiones en el extranjero. Los empleados, altamente capacitados, con manejo de distintas lenguas y extensos conocimientos en materia de sistemas de computación, cobraban elevados sueldos a cambio de una absoluta discreción y de plena disponibilidad. No se distinguía entre el día y la noche si se trataba de asistir a un grupo comando que estaba operando. Alamán Al-Saud, se ocupaba de que esa cibernética funcionara, y proveía a la empresa de las últimas mejoras en materia de seguridad y de computación, sin preocuparse por el dinero, ya que los socios le habían asegurado que no escatimarían en ese sentido. Una falla en las comunicaciones o un error en la información podían acarrear la muerte de un soldado del equipo. La otra cara del aspecto tecnológico de la Mercure se llamaba Claude Masséna, jefe de informática. Y, en la parte sudeste de la Isla de Fergusson, perteneciente a las islas D´Entrecasteaux, en Papúa-Nueva Guinea,  está su campo de instrucción y entrenamiento de los soldados profesionales, ubicados sobre las ruinas de una base aérea militar muy usada durante la Segunda Guerra Mundial. También era el  almacenaje del armamento empleado en las misiones. Las investigaciones de alto riesgo y los servicios de protección económica e industrial son otros de los negocios con los que extienden su cartera profesional.
+La razón principal de Juana es olvidar a  Jorge un médico casado, con el que se había enredado y  cuya esposa quedó embarazada y el puso fin a su historia: Matilde creía que la decisión de su amiga de embarcarse en la aventura de Manos Que Curan se relacionaba más con poner distancia entre ella y Jorge que con un corazón compasivo. Pág. 63. Caballo de Fuego I.
+En París lo consigue con Shiloah Moses: una relación complicada por los antecedentes de Porfiria en su familia. Aun así, la viven con pasión y mucha determinación. Pasan por un rompimiento que logran superar.
+
+A lo largo de las tres obras, Juana es el personaje más refrescante. Y se convierte en aliada de Eliah.  Ella es la  que prácticamente lo ayuda  para que Matilde dejé las dudas y lo acepte.  Cuando comienzan su idilio, Juana  le sugiere  a Matilde como vestirse, como perfumarse, como  complacer a Eliah.
+
+En sí, Matilde y Juana se complementan como bien lo dijo Eliah al principio de la primera parte, cuando las conoció: la frescura y desvergüenza y falta de comedimiento de Juana no opacaban a Matilde. Al contrario, la realzaban. Formaban un lindo par aunque fueran distintas. Juana tiene la generosidad de relacionarse con cualquier criatura viva. Tiene la capacidad de reconocer lo bueno o lo malo de quien conoce y dependiendo de como es el personaje se atreve a endosarles epítetos que los caractericen según ella, como papurri a Eliah,  o cashbita a Alamán.
+
+Juana es totalmente incondicional en su amistad. Sin dobleces, sin envidia, sin cortapisas. Es más bien, la hermana que le regaló la vida. Cuando Matilde se siente vulnerable se repliega detrás de Juana, porque sabe que la defenderá sin medir las consecuencias de sus actos.  
+
+Juana  es como un terremoto  que contagia la alegría de vivir, aspecto que le trasmite a Shiloah Moses. Ni aun en sus peores momentos, deja de sacarnos risas a quienes seguimos sus aventuras en Caballo de fuego.
+
+**Jacques Méchin**: fue tutor de Kamal.  De todos los hijos de Al Saud, Eliah fue el preferido y tomó a su cargo su educación. Eliah lo había adorado. Todavía le dolía su ausencia. Jacques lo señaló como el heredero de sus bienes incluida la casa que por generaciones había pertenecido a los Méchin y una hacienda.
+
+**Casa de la  Avenue Elisée Reclus**: ubicada entre esta avenida que hace  esquina con la rue Maréchal Harispe, en el rincón del Septième Arrondissement, a metros de la Torre  Eiffel. Era el sitio más exclusivo de París. Se trataba de una sólida construcción de tres plantas de finales del siglo XIX que termina en una cúpula de vidrio coloreado, producto del Art Nouveau en un estilo de origen clásico que también presentaba rasgos de una arquitectura ecléctica. Las puertaventanas de la planta baja daban a un  patio andaluz. En el ático, por encima del gimnasio, con techo de vidrio y grandes ventanales empañados, se hallaba la pileta rectangular, de grandes proporciones, rodeada de listones de teca. Las  rejas de los balcones y de  las puertas, como tallos que trepan, con flores y hojas, hablaban de la influencia del arquitecto belga Victor Horta. Hay un ascensor en la zona de servicio. Es tan viejo como la casa, uno de los primeros ascensores de París. Es  el hôtel particulier de Eliah. La empresa constructora de su hermano Shariar la había remozado y acondicionado, incluyendo tecnología en materia de seguridad a cargo de Alamán, su otro hermano.
+
+**Haras Al-Saud.  Élevage de Chevaux Frisons**: es la hacienda en las cercanías de Ruán, donde Eliah se dedicaba a la cría de caballos frisones. Estos caballos provienen de Friesland, una región en los Países Bajos. La raza estuvo a punto de extinguirse. Haras como el  de Ruán la salvaron de desaparecer. La hacienda tiene  una casa principal,  construida en piedra blanca y madera,  que se erigía en un predio de cuidados jardines y circundada por casas menores de sólida construcción y de cuidado aspecto, si bien más antiguos que el de la principal.  Vivía el administrador, Takumi Kaito.
+
+**Takumi Kaito**: japonés. Mide 1,70. Es un hombre retraído, silencioso, que escucha y observa. Es de poco hablar. Experto en artes marciales: Taijutsu, una de las disciplinas que conforman el arte de la guerra japonés conocido como Ninjutsu y que se ocupa del combate cuerpo a cuerpo, para lo cual optimiza las habilidades naturales del ser humano 
+y utiliza el cuerpo como arma.
 
 
-**Socios y Empleados de Confianza de La Mercure:**
+**Laurette**: esposa de Takumi Kaito. Extrovertida, cariñosa, le gusta consentir a quien ella quiere. 
 
-**Socios de La Mercure:**
+**Mónica**:  peruana, baja y robusta, de piel cobriza y ojos achinados. Es la cuidadora de Kolia. 
 
-**Anthony Hill**: conocido como Tony, cabello ondulado y rubio, rondaba los cuarenta, pero con el estado físico de uno de veinticinco. Es el socio más importante de la Mercure S.A. después de Al-Saud. Había pertenecido a la fuerza de élite del ejército británico, Special Air Service, más conocida como SAS, y además se había graduado con las mejores calificaciones en la Academia Militar Sandhurst.  Era considerado un arma letal.
+**Edmé de Florian**: agente de la Direction de la Surveillance du Territoire (Dirección de la Vigilancia del Territorio), el servicio de inteligencia doméstico francés. Edmé apreciaba las oportunidades en las que podía ayudar a Eliah Al-Saud, su antiguo compañero de L’Agence. Eliah le salvó la vida en Mogadiscio, donde Edmé cayó inconsciente con una bala en el pecho, cuando  su grupo comando fue  delatado. A pesar de que,  Edmé de Florian medía un metro ochenta y cuatro y pesaba noventa kilos, Al-Saud se lo había cruzado sobre la espalda y corrido poco más de una hora con él a cuestas, sin olvidar los treinta kilos de equipo que llevaba. Edmé de Florian se debatió entre la vida y la muerte. No obstante, el francés sobrevivió sin secuelas.
 
-**Michael Thorton**: ojos pardos, cabello oscuro, rudo, soltero empedernido y un mujeriego incurable. Fue de los espías más hábiles del SIS durante la Guerra Fría. Se dice que entraba y salía de Alemania Oriental casi con la temeridad de un chiflado. Les causó grandes dolores de cabeza a los rusos.
+**Olivier Dussollier**: pertenece a la Direction Régionale de la Police Judiciaire. Es inspector de la Brigada Criminal de la policía. 
 
-**Peter Ramsay**: de cejas negras y tupidas que enmarcaban unos ojos azules de mirada inteligente e incisiva. Apenas pasaba de los cincuenta años,  ágil, saludable y de buen carácter, ex miembro de la unidad de rastreo del SIS, conocida como El Destacamento. Se ocupa  de la seguridad electrónica de todo lo que le pertenezca a la empresa.   Es el mejor en seguimientos y rastreos.
+**Natasha  Azarov**:  ucraniana. Nació en Yalta, el mismo pueblo de Zoya Pavlenko, su amiga de la infancia. Trabajó en  Sebastopol antes de venir a París, donde se abría paso en el mundo de las modelos publicitarias gracias a las conexiones de Zoya, y estaba consiguiendo popularidad. Zoya la presenta a Eliah, tienen un romance y un día desaparece. Es  todo lo que sabemos de ella  en París.
 
-Era sigiloso por naturaleza, y así como descubría micrófonos los plantaba, tomaba fotografías desde grandes distancias y realizaba tareas de escucha y de seguimiento por días sin levantar sospechas.    Es un genio en su métier. Además, se ocupaba de mantener las oficinas de la Mercure S.A. como también las propiedades, aviones y automóviles de Al-Saud y de los demás socios y empleados libres de micrófonos y otra tecnología utilizada para el robo de información. Era casado, su esposa  vivía en Londres.  La parcialidad de Peter por Leila era evidente,  no le quitaba los ojos de encima, comienza a tontear con ella y la muchacha le sonreía, le contestaba con señas y  le coqueteaba. Si bien era bastante mayor que la muchacha bosnia, se enamora  de ella. Una vez, divorciado, se casan. 
+En el libro Congo, llama a Eliah y le pide verlo en Milán a lo que el accede. Cuando la ve la encuentra  delgada, pálida y pelada.  Su cuello se erguía, largo y enflaquecido, sobre las clavículas que sobresalían, con unas ojeras de un color azulado, que contrastaban con la tonalidad verdosa de su piel y su delgadez extrema. Tenía leucemia. 
 
-**Empleados de confianza de La Mercure:**
+**Le explicó porque desapareció**: una noche apareció en su departamento Udo Jürkens. La había ahuyentado bajo la  amenaza que le  mostraría a Eliah  las películas pornográficas que hizo  en Sebastopol para sobrevivir, y que la mataría.  A  la mañana siguiente, tomó la decisión de irse, estaba embarazada  de cuatro meses de Eliah. Cuando nace lo llama Nicolai Eliah  y le dice Kolia. El niño es un bebé hermoso y vivaz Natasha murió, el viernes 2 de octubre. La sepultaron el lunes 5 de octubre  en el Cimitero Monumentale. El niño queda a cargo de Eliah que le pide ayuda a su madre hasta resolver el problema legal para sacarlo de Italia.  E igualmente, resolver su situación con Matilde. 
 
-**Axel Bermher**: guardaespalda.
+**Mandy Taylor**: era la apasionada y perturbada esposa de Nigel Taylor, bipolar de temperamento inestable. A  finales del 92, obsesionada con Eliah  se convirtió en su amante. Se suicidó ingiriendo pastillas para dormir.
 
-**Dingo**: guardaespalda, de carácter egocéntrico, es considerado uno de sus mejores hombres, ex oficial del ejército australiano. Su verdadero nombre es Ronald Carelli, de padre italiano y madre irlandesa, era originario de Queensland, donde había desarrollado su afición por el surf y el buceo. Lo habían llamado Dingo desde pequeño, como al perro salvaje propio de Australia, descendiente del lobo asiático. Compartía con el animal no sólo el dorado del pelaje sino su cualidad de huraño y montaraz. 
-Medes: iraquí de origen kurdo. Su familia y sus amigos fueron masacrados con armas químicas en el 88. Mientras Eliah comandaba un grupo de L’Agence que intentaba descubrir la ubicación de una fábrica de fosgeno, un gas  empleado en el desarrollo de armas químicas, el kurdo les indicó dónde se hallaba. Después de esto, lo llevó a París y consiguió que lo declarasen refugiado político. Desde entonces, la gratitud del kurdo no conocía límite. Se convirtió en su chofer y hombre de confianza y realizaba trabajos de vigilancia.
+**Nigel Taylor**:  de nacionalidad inglesa. Es un hombre de una indiscutible belleza sajona, alto, delgado aunque con hombros firmes y contextura fuerte, ojos azules de pestañas negras que contrastaban con los mechones rubios que le ocultaban la frente amplia. Mercenario con agencia propia: Spider International.  Antagonista de Eliah. El odio condujo a Nigel Taylor a extremos letales, como venderles a los somalíes la información de un trabajo que el comando de Al-Saud realizaría en Mogadiscio. Pretendiente de Matilde.
 
-**Martin Guerin**: norteamericano,  paramédico. Su nombre de guerra era Doc.
+**Claude Masséna**: de origen judío, era un hacker, una especie de gurú de las computadoras con aspecto de roedor y usualmente descuidado, a quien los abogados de Eliah Al-Saud habían sacado de prisión. Cumplía una condena por haber ingresado en el sistema de la Banque Nationale de París y robado cientos de miles de francos. Siente envidia hacia Eliah Al Saud y lo imita en todo. Está enamorado de Zoya. Traiciona a Al Saud con el Mossad. Y luego se suicida en casa de Zoya  Pavlenko
 
-**Amburgo Ferro**: italiano, escolta.
-**Dario Sartori**:  alto, delgado, aunque de aspecto sólido, escolta del equipo de seguimientos de Peter Ramsay.
+**Rauf Al-Abiyia**: Se le conoce como el Príncipe de Marbella, es traficante de armas y de estupefacientes. De origen palestino, vivió en el campo de refugiados de Egipto. Ahí, aprendió que, para sobrevivir tenía que mendigar, robar, canjear, regatear, comprar y vender. Se convirtió en miembro de la Sociedad de los Hermanos Musulmanes y su vida dio un giro radical y, de delincuente pasó a constituir la cabeza de un grupo con objetivos enaltecidos. En su búsqueda  por los méritos que lo conducirían al Paraíso junto al Profeta,  la yihad o guerra santa ocupaba el primer lugar. 
 
-**Oscar Meyers**: alemán, escolta.
+En su viaje a Argentina para la venta de armas cayó preso. De su temporada en la cárcel obtuvo dos beneficios: un manejo fluido del castellano y la amistad de Aldo Martínez Olazábal.
 
-**Noah Keen**: escolta. Hacía años que trabajaba en equipo con Ulysse Vachal  y parecían comunicarse con la mente.
+**Shaul Zeevi**: empresario israelí de la computación que requería el servicio de La Mercure para acceder a la zona donde se encuentra el coltán que está en poder de los rebeldes. El coltán es un material que se codiciaba en la fabricación de baterías de celulares, de computadoras y toda clase de artilugios electrónicos. 
 
-**Ulysse Vachal**: escolta.
+**Udo Jürkens**: Nació  en Berlín, medía alrededor de un metro noventa, de contextura robusta. Llevaba el cabello muy corto. Sus facciones de traza feroz son cambiantes. Perdió la voz por unos matones del famoso terrorista palestino Abu Nidal  que lo balearon en la nuca.  Gerard Moses le había salvado la vida y  le había devuelto la voz con un dispositivo electrónico, de su invención, el cual fue colocado en un hospital de Bagdad. De ahí, el sonido metálico y artificial de su voz. Por eso, Udo Jürkens lo veneraba y hacía cualquier cosa por él.
 
-**Derek Byrne**: irlandés, escolta.
+Su verdadero  nombre es  Ulrich Wendorff, un mito de las guerrillas de corte marxista de la década de los setenta. Fue miembro activo de la Fracción del Ejército Rojo, la banda terrorista alemana conocida como Baader-Meinhof, que, aliada de los grupos de extrema izquierda palestinos, se había convertido en una pesadilla para muchos países, entre ellos Israel. La crueldad y el fanatismo de Wendorff eran proverbiales.
+  
+En la actualidad, es la mano derecha y asistente de Gerard Moses.
+Actuaba como una sombra que Gerard Moses utilizó para robar el proyecto de los planos de la centrifugadora de Roy Blahetter, a quien tortura y asesina, después de apropiarse de su  proyecto. Se dedicó por órdenes de Gerard Moses a matar y amenazar a las mujeres de Eliah Al Saud.
 
-**Lambodar Laash**: nepalés, ex integrante de las letales unidades gurkhas. Aparte de  ostentar las armas oficiales de la Mercure, jamás se quitaba del cinto el típico cuchillo de los gurkhas, llamado kukri, cuya hoja de acero curva de gran tamaño cercenaba un brazo si se lo blandía con destreza.
+**Ágata Scheinber**: rubia, de cabello largo, ojos grandes y claros y con un corte de cara ovalado, regular y armonioso. nació en Berlín, el 4 de julio de 1953 y murió en Viena el 21 de diciembre de 1975, durante el asalto a la sede de la OPEP orquestado por el terrorista venezolano Ilich Ramírez, más conocido como Carlos, el Chacal. Udo Jürkens, estaba convencido de que Matilde era Ágata Scheinber, su novia de la juventud. 
 
-**Zlatan Tarkovich**:  croata, piloto, ex oficial del Ejército Rojo, insistía en definirse como yugoslavo, a pesar de que Yugoslavia ya no existía. También se consideraba un free lance, y sólo trabajaba para la Mercure por contrato. 
+**Gulemale**: es una empresaria en un ambiente exótico y violento. Esta residenciada en la Provincia de Kivu Norte, República Democrática del Congo. Divorciada de Balduino Böel con el que había tenido dos hijas: Aisha y Joséphine.
 
-**Viktor Oschensky**: ruso, especialista en comunicaciones del Ejército Rojo. Amigo de Sergei Markov.
+Nació en Ruanda. Ojos negros de obsidiana, rostro de facciones delicadas y al mismo tiempo fuertes, pelo largo con una cabellera aleonada, crespa, abundante y oscura, con un mechón rubio que nacía en medio de la línea de la frente y se extendía hacia atrás, voz cavernosa. Alta e imponente. Su sangre africana se evidenciaba en la tonalidad de la piel, en los labios llenos y en la cabellera alborotada y crespa.  Era agresiva y desconfiada por naturaleza. 
 
-**Vladimir Chevrikov/Lefortovo**: ruso, falsificador dentro del KGB, el servicio secreto de la Unión Soviética. Había sobrevivido cinco años en la prisión de Lefortovo, en las afueras de Moscú. Chevrikov terminó en esa prisión, después de que una amante despechada denunció que vendía pasaportes falsos a desertores rusos. El KGB lo interrogó hasta que se persuadió de que trabajaba solo y no para la CIA ni el SIS (Secret Intelligence Service), el servicio de inteligencia británico.  Chevrikov rengueaba, como consecuencia de las torturas, le faltaban dos dedos del pie derecho. Era socio de la Mercure S.A. Tenía  un bajo porcentaje de las acciones.
-Harold McAllen: norteamericano, con figura de oso, de cincuenta y dos años. Jefe de la base de la Isla de Fergusson. Durante la Guerra de Vietnam, McAllen había formado parte del SOG (Studies and Observation Group), una fracción del ejército de los Estados Unidos que se internaba en el territorio selvático dominado por el Vietcong, para emprender tareas de reconocimiento y de eliminación de asentamientos enemigos. 
+Su infancia fue en un Hospicio de monjas católicas en Kinshasa y cree que por sus rasgos físicos pertenece a la tribu de los tutsis. En las alianzas, madre hija/padre hija estuvo ausente, permitiendo que su percepción familiar se desplazara por la social desde muy temprana edad. 
 
-**Chandresh Dragosi**: ex miembro de L'Agence al igual que Al-Saud. Jefe de la base de la Isla de Fergusson junto con Harold McAllen. Dragosi, es uno de los expertos a cargo del campo de adiestramiento de la Isla de Fergusson.
+Es una mujer congoleña de cuerpo esbelto y voluptuoso, que parecía esculpido. Con sus atributos físicos logró llamar la atención de los hombres de poder. Se decía que había comenzado a los catorce años, contrabandeando cigarrillos. Una vida que la había llevado de la indigencia en los suburbios de Kinshasa a la riqueza y el poder en las capitales de Europa. Se la asociaba con todo tipo de tráfico ilegal. Así, consolidó una empresa de ventas de armas, drogas y minerales con apoyo de empresarios europeos, abandonando a sus hijas, que quedaron con el padre.  Fue amante de Eliah. Se conocían desde hacía tiempo, Michael Thorton los había presentado en Londres, en la discoteca Ministry of Sound, la cual habían abandonado para compartir una noche de sexo.
 
-**Stephanie**: asistente principal de Claude Masséna. La Mercure la había contratado para asistirlo y controlarlo. Jefa del Departamento de Sistemas, desde el suicidio de Masséna.
+Toda moneda tiene dos caras, Gulemale se vendía al mejor postor para mantener la empresa en un sitial de poder, por el otro lado, sin palabras, ayudaba económicamente a sus hijas. Su ex esposo no podía mantener la Hacienda Anga La Mwezi.  Las condiciones físicas de Balduino Boel no eran las más acordes para poder dirigir una hacienda y una cervecería. 
 
-**Therese y Victorie**:  son las secretarias de Eliah en la empresa de la Mercure.
+Gulemale asesinó a Frédéric, su amante, por haber puesto a su hija en una situación en que casi  la violan los rebeldes del grupo del General Laurent Nkunda.  En tales circunstancias, se vio a la madre protectora antes que  la mujer empresaria. 
 
-**Marie y  Agneska**:  empleadas a cargo de la casa de Eliah Al Saud en la Avenida Elisée Reclus.
+Tuvo que hacerse la sorda, la ciega y la muda viendo las injusticias hacia la mujer congoleña para llegar a ser la Madame Gulemale: frívola, peligrosa y poderosa. No tuvo una familia en un país que ha estado en conflictos bélicos entre sus habitantes y países vecinos. 
 
-**Sergei Markov**: de ojos grandes y oscuros, mide un metro ochenta y ocho de altura, una estructura de músculos de casi ciento cinco kilos y es soldado profesional con veinte años de experiencia. Era un tipo callado, parco, puntilloso y detallista, si bien amigable, dedicado al trabajo, siempre atento a los demás, aunque serio y distante y de aire sombrío. Ex miembro de la Spetsnaz GRU, el comando de élite del servicio de inteligencia militar de Rusia, temido y respetado por los demás grupos militares de élite del mundo. Sólo un puñado superaba su proceso selectivo y se decía que algunos perecían en el intento. La pericia de Markov estaba garantizada con esos antecedentes: poseía un conocimiento y una habilidad superiores acerca de armas, de tácticas de ataque, de camuflaje y de supervivencia.
-Mientras trabajaba de guardaespaldas fue acusado por el presidente Taylor de mantener relaciones sexuales con su sobrina. Fue expulsado del país. Tony Hill fue a Monrovia, capital de Liberia  para comunicar que la situación con el presidente Taylor estaba bajo control. 
+Gulemale no llegó por el cauce correcto, cumpliendo las normas sociales, estudiando para lograr una profesión, ni tuvo una familia que le motivara a surgir. Tuvo desde temprana edad que aprender a cuidarse, prefirió herir ante de ser herida.
 
-**Relación de Sergei Markov  y  Diana Huseinovic**:
+**Frédéric**:  29 años, drogadicto, amante y hombre de confianza de Gulemale. Estuvo de noviazgo con Joséphine, la hija de Gulemale. Le apasionaba la fotografía y andaba con su cámara para poder captar los momentos importantes.  Era un ser sin límites, la drogadicción hace que realice negocios sucios con los rebeldes, llevándolo a la muerte. 
 
-Llega a París y pasa a ser el guardaespaldas de Matilde junto con La Diana. Durante las semanas en que se ocuparon de la protección de la mujer de Al-Saud, la visión de La Diana le provocaba un desbarajuste, en el ritmo de sus pulsaciones. No sabía cómo abordarla. La Diana era la primera mujer que lo contemplaba con indiferencia y ahora con desprecio y hostilidad, cuando la había fastidiado en la Isla de Fergusson con el tamaño de sus senos y ella reaccionó  dándole un trompazo. 
+**Laurent-Désiré Kabila**: presidente de la República Democrática del Congo, después de  derrocar  al régimen de Mobutu Sese Seko.
 
-Markov se desplaza al Congo con el equipo de La Mercure para apoderarse de una mina de coltán. Entre los soldados va La Diana a quien salva cuando la hieren y se disponen a rematarla. Esta vez, por intentar sujetarla por el brazo lo golpea en el pecho con el talón de la mano.  Markov  trata de enderezar las cosas entre ellos. Se había enamorado de ella y trató de ayudarla a sanar.  A su vez, La Diana empieza a corresponderle. Tanto es así, el cambio que se produce entre ellos, que a  ambos los afecta y conduele la separación y sufrimiento de Matilde y Eliah. A Diana le gustaba verlo limpiar su VSS Vintorez, el rifle ruso favorito de los francotiradores y que, según Lambodar Laash, evidenciaba el pasado de Markov en la Spetsnaz GRU.
+**Joseph Kabila**: hijo del presidente, amigo de Eliah. De buen carácter, presto a asumir los retos que significaba ser el hijo de Kabila.
+**Laurent Nkunda**: medía alrededor de dos metros, pómulos de huesos prominentes, mejillas sumidas y  labios gruesos, nariz, larga y delgada. Habla fluidamente el inglés. Es un ex oficial del Ejército congoleño. Pidió la baja con el grado de general. Peleó junto con Laurent Désiré Kabila para derrocar a Mobutu Sese Seko, destacándose por su inteligencia y su valor. Como munyamulengue, una etnia tutsi propia del Congo, asegura defender a su gente de los interabamwes que huyeron de Ruanda después del genocidio del 94 e invadieron el territorio congoleño.  Según Al-Saud, Laurent Nkunda es un gendarme de los intereses internacionales. Sobre Nkunda pesan cargos de crímenes contra la humanidad.
 
-Nuevamente, en Gaza son guardaespaldas de Matilde y tras una pelea La Diana lo deja solo. Es cuando irrumpe un grupo terrorista que encabezan: Udo Jürkens y el jefe de las Brigadas Ezzedin al-Qassam: Anuar Al-Muzara para secuestrar a Matilde y asesinar a casi todos. Markov muere en el ataque al tratar de poner a salvo a Matilde. Los socios de La Mercure se hicieron cargo del traslado de su cuerpo a Rusia.
+**MQC**:  (Manos que curan), es una organización humanitaria cuya sede está en París en la rue Breguet: Estacionó frente a la entrada del edificio que ostentaba una placa de mármol con la inscripción Mains Qui Guérissent (Manos Que Curan en francés). Pág, 121. Caballo de Fuego I.
 
-**Zoya Pavlenko**
+**Dr. Auguste Vanderhoeven**:  39 años. ojos azules, nariz larga y recta, dientes blancos y parejos, atractivo, médico belga, voluntario de MQC, comprometido  con su trabajo, responsable, trato amable con sus pacientes, enamorado de Matilde.
 
-Es ucraniana, prostituta  y uno de los activos más valiosos de la Mercure. Vive en un departamento en el número 190 de la calle del Faubourg Saint-Honoré.   Según Takumi sensei, la sabiduría de Zoya forma parte de su esencia de Serpiente de Madera, igual que su atractivo y su calidad de pitonisa, al lado de su gran  erotismo.
+**Jean-Marie Fournier**: el jefe de la misión de Manos Que Curan en la República Democrática del Congo.
 
-Samara  trajo a Zoya a la vida de Al  Saud, cuando ambos  salían  de un restaurante en Ruán y la había divisado en un callejón. Un hombre la molía a golpes y ella soportaba la paliza. Samara le dijo a Eliah que la ayudara.  El proxeneta terminó inconsciente sobre una pila de basura. En su francés bien hablado pero mal pronunciado, Zoya les suplicó que no la condujeran al hospital porque la deportarían a Ucrania  ya que sus papeles no estaban en regla. La llevaron a la hacienda de Ruán, donde Takumi sensei  la curó. 
+**Dra. Anne Halsey**: la coordinadora de terreno. 
 
-Desde  su posición en L’Agence, Al Saud consiguió que deportaran al atacante de Zoya.  Desde entonces, la  prostituta presta servicios como espía en L’Agence.  Esto  exigió un cambio  de imagen de Zoya. Le dieron lecciones de todo tipo para convertirla en una acompañante de veinticinco mil francos por noche. Con el tiempo  nació la Mercure  y Zoya  se sumó al equipo de Al Saud, aunque siguió prestando servicios para L’Agence.  Su primer trabajo  en la Mercure fue engatusar al hacker Claude Masséna, enamorarlo y sonsacarle información que después Al Saud y sus socios emplearon para extorsionarlo. 
+**Juan Miguel Robles**: un cirujano peruano. 
+
+**Axel Larsson**: un clínico sueco. 
+
+**Abir Nahalí**: un ginecólogo y obstetra egipcio. 
+
+**Kapuki**:  enfermera congoleña.
+
+**Julia**:  enfermera colombiana
+
+**Ajabu**: chofer de Manos Que Curan en el Congo. Tiene 25 años.
+
+**N'Yanda**: alta e imponente, de penetrantes ojos verde esmeralda. Era una  tutsi ruandesa,  vidente y curandera. Su modo de hablar es directo, parco y autoritario. Tiene una hija, Verabey, y ambas mujeres  atendían la casa de Manos Que Curan, desde que la organización se había instalado en el Congo en el 81. Después de que estalla la guerra se encargan de cuidar la Hacienda Anga La Mwezi.  En la tercera parte de Caballo de Fuego, ambas van a servir a la casa de Eliah y Matilde.
+ 
+**Karme**: es el jefe de los interahamwes y había asesinado a los padres de Jérôme. Fue el que más asesinatos cometió durante el genocidio del 94, en Ruanda. 
+
+**Dr. Harald Bondevik**: un cincuentón de estatura media, rostro redondo y pequeño con mofletes, jefe de la misión de MQC en la Franja de Gaza.
+
+Mara Tessio: psicóloga, italiana de Génova, cuarentona y desabrida, que hablaba poco y llevaba una vida solitaria, apartada del grupo.
+
+**Jonathan Valdez**: psiquiatra puertorriqueño.
+
+**Amílcar de Souza**:  traumatólogo brasilero.
+
+**Dr. Tharcisse Loseke**: un nativo alto y de contextura maciza, con una sonrisa y una mirada cándidas como las de un niño. Es el  director del hospital de Rutshuru, administrado y financiado por el gobierno de Kivu Norte, con sede en Goma.
+
+**Rolf Gustafsson**: médico sueco, vive en Bukavu. Realiza las operaciones de fístula vaginal.
+
+**Udmila**: enfermera.
+
+**Zakia**: enfermera.
+
+**Danielle**: enfermera.
+
+**Balduino Boel**: llamado mzee Balduino.  Fue el mejor amigo de Patrice Lumumba, el héroe nacional de los congoleños. Es uno de los pocos belgas que no abandonaron el Congo en el 61. Es muy rico. Tiene una plantación de té, café y cebada, que usa en su fábrica de cerveza. Se casó con Gulemale y tuvieron dos hijas: Aisha y Joséphine. Es  diabético  y tuvo un accidente cerebrovascular. Su condición física lo limitó para dirigir la Hacienda Anga La Mwezi y la cervecería. Se preocupaba por sus empleados y por eso no la cerraba.
+
+**Joséphine Boel**: Hija de Gulemale y Balduino Boel. De 29 años de edad. De piel oscura, ojos dorados, cabello largo y lacio, inusual en una africana. Sus facciones eran redondeadas y regulares,  el rostro es pequeño y delgado, su nariz  recta, el perfil de sus labios llenos y carnosos, la curvatura de su frente amplia y de cuello largo, mano de dedos largos. Alta y delgada. Es serena, sensible, sensata, simpática y bondadosa.
+
+Tuvo una relación con Frédéric, la cual termina porque este se convierte en amante de su madre.  A partir de la enfermedad de su padre se encarga de todo lo relacionado con la administración de la hacienda y la cervecería. Desde que finalizó con Frédéric solo se dedica a su padre. Conoce a Alamán Al Saud, cuando ella junto a Matilde y Juana van a la fiesta de cumpleaños de Gulemale, su madre. Se enamoran. A partir de ahí, comienzan a verse en forma asidua. A pesar de la fuerte oposición de su padre Balduino comienzan su relación. 
+
+**Aísha Boel**:  es de una belleza ostentosa e impactante, tal vez agresiva, como la de su madre Gulemale, hermana de Joséphine, era la más fuerte, vive en Washington, Estados Unidos. Es periodista, experta en recursos estratégicos, sobre todo en petróleo. Las grandes compañías la consultaban. Había publicado un libro titulado ¿Qué haremos cuando se acabe?
+
+**Godefroide Wambale**:  alto y fornido, de gesto ominoso y mirada fría, con el pelo entrecano. Es chofer de Joséphine y hombre de confianza en la hacienda Anga La Mwezi. Ha servido a la familia Boel con Petra la cocinera, desde que eran pequeños. Joséphine los lleva a París a vivir con ella.
+
+**Jean-Bosco Bahala**, sacerdote católico de la parroquia Sagrado Corazón en Los Kivus.
+
+**Osbele**: es enfermero. Obtuvo las mejores calificaciones en la Escuela de Enfermería de Kampala. 
+
+**Misión San Carlos**:  ubicada en el corazón del bosque tropical. Está conformada por varias misioneras: 
+soeur **Amélie Guzmán**:  tiene 40 años, es prima  hermana de Matilde. Hija de  Sofía Martínez Olazábal y Fernando Guzmán. Es religiosa de la orden Hermanas de la Misericordia Divina y está a cargo de la Misión  San Carlos.  Misionaba en una de las zonas más peligrosas del mundo, la provincia de Kivu Norte en el Congo.
+soeur **Angelie**: deja la congregación para casarse con Nigel Taylor. soeur Annonciation.
+soeur **Edith**,
+soeur **Tabatha**.
+**Vumilia**: ayudante de la misión San Carlos
+
+**Bénédicte Kabuli**: es una niña que le practicaron la infibulación. Al  extirparle los genitales externos para purificarla, le habían provocado una septicemia que la mantuvo  al borde de la muerte.
+
+**Kabú**: el enfant sorcier o niño hechicero.
+
+**Tanguy**: usa una pierna ortopédica que fue donada por Nigel Taylor.
+
+**Kutzai**. víctima de violación, se le realizó una cirugía de fístula rectovaginal.
+
+**OTROS PERSONAJES**: 
+
+**Ariel Bergman**: ojos celestes, jefe del Mossad en Europa.
+
+**Lior Bergman**: teniente coronel israelí. Un héroe de guerra  condecorado. Hermano menor de Ariel Bergman. Enamorado de Matilde.
+
+**Antoine**: el único hijo de Monsieur Antoine, el mayordomo de la familia Rostein, tal era el segundo apellido de Gérard Moses.  Era un chico de una timidez patológica, que huía a la cocina al ver llegar a los amigos de los patrones y que sólo parecía sentirse a gusto entre las palomas de Gérard.
+
+**Dorianne Jorowsky**: jefa de Prensa de Los Defensores de los Derechos Humanos.
+
+**Ruud Kok**: periodista  holandés del  NRC Handelsblad.  Es  corresponsal del Paris Match y de Le Figaro en Ámsterdam. Autor del artículo: La fábrica de armas químicas de Israel. Posteriormente, escribió El mercader de la guerra, en donde desacredita a Eliah Al Saud, como dueño de una empresa de mercenarios que venden sus servicios  al mejor postor. 
+
+**Yaakov Merari**: agente encubierto del Mossad en Damasco.
+
+**Moshé Bouchiki**: científico israelita.
+
+**Sandrine**: la editora de Sabir y Matilde.
+
+**Donatien Chuquet**:  piloto que se jactaba de sus cuatro mil quinientas horas de vuelo. Fue instructor de vuelo en las Fuerzas Aéreas francesas  L’Armée de l’Air, que examinó al estudiante Al-Saud en la base aérea de Salon-de-Provence y lo aprobó muy a su pesar. Sus días como piloto de guerra habían terminado abruptamente cuando, luego de someterlo a un juicio sumario, lo devolvieron a la vida civil por graves irregularidades en su desempeño como instructor de vuelo. Ante esto, trabajaba free lance como piloto de pruebas para las constructoras aeronáuticas Dassault, Northrop Grumman y Safran. Actualmente, es instructor en la Base Cero en Irak.
+
+**Fauzi Dahlan**: iraquí, tenía alrededor de sesenta años, estatura mediana y rostro de piel oscura, tosca y avejentada. Dahlan se puso al servicio del régimen iraquí. Está a cargo de la Policía Presidencial,  que se ocupa de las torturas de los opositores al régimen. Es del entorno de Kusay. Fue  la mano derecha de Abú Nidal,  terrorista palestino.  Es el único amigo que le quedaba a  Udo Jürkens, cuando ambos formaban parte de la organización terrorista al mando de Abú Nidal.
+
+**Saddam Hussein**: fue un político iraquí que se desempeñó como presidente de Iraq. No era religioso. De sus hijos se destacan: Uday: el primogénito de temperamento inestable. Era un psicópata, que se deleitaba lastimando a las personas en las que no faltaban asesinatos con armas estrafalarias, como un cuchillo eléctrico o un bate de béisbol, y abusos sexuales. Gracias a sus excentricidades y actos de sadismo, había perdido el derecho al trono. Kusay: de carácter mesurado y frío. A pesar de ser el segundo hijo, se decía que su  padre confiaba en él más que en Uday y que planeaba nombrarlo su heredero. 
