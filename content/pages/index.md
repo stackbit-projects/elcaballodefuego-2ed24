@@ -12,14 +12,15 @@ sections:
   - section_id: about
     type: section_content
     content: >
-      Florencia Bonelli, escritora argentina, es la autora de la trilogía
-      Caballo de fuego: *París, Congo, Gaza*. Tres libros que llevan al lector
-      por un viaje donde se expone el amor, el odio, la vida y la muerte. A su
-      vez, narra la situación política, económica y religiosa de congoleños,
-      palestinos e israelitas en un momento determinado de la historia
-      contemporánea. Florencia hace del lector un participante emotivo por vivir
-      un amor en un contexto donde el poder y la injusticia social se visten de
-      derechos humanos.
+      Hoy, estamos iniciando nuestro blog literario.
+
+      Acompáñanos en nuestra primera página web y seguiremos descubriendo el mundo real.
+
+      En esta trilogía Caballo de Fuego: Paris, Congo y Gaza, Florencia Bonelli nos sorprende por su lenguaje, historicidad y ese estímulo constante a través de sus personajes que nos mantienen despiertos y soñando. Para la escritora fue un reto y para el lector es y será el vuelo de la imaginación con la realidad que lo circunda. Conjugar ambos es sentir, pensar y vivir. 
+
+      Caballo de Fuego narra el amor de Eliah y Matilde en un contexto socio histórico múltiple donde la lucha del desvalido se debilita por la influencia torrencial del poder sobre los recursos naturales y humanos. 
+
+      Los invitamos a disfrutar de nuestra página.
     actions:
       - label: Contactanos
         url: /contact
@@ -36,13 +37,15 @@ sections:
 seo:
   title: El Caballo de Fuego
   description: >-
-    Florencia Bonelli, escritora argentina, es la autora de la trilogía Caballo
-    de fuego: París, Congo, Gaza. Tres libros que llevan al lector por un viaje
-    donde se expone el amor, el odio, la vida y la muerte. A su vez, narra la
-    situación política, económica y religiosa de congoleños, palestinos e
-    israelitas en un momento determinado de la historia contemporánea. Florencia
-    hace del lector un participante emotivo por vivir un amor en un contexto
-    donde el poder y la injusticia social se visten de derechos humanos.
+    Hoy, estamos iniciando nuestro blog literario.
+
+    Acompáñanos en nuestra primera página web y seguiremos descubriendo el mundo real.
+
+    En esta trilogía Caballo de Fuego: Paris, Congo y Gaza, Florencia Bonelli nos sorprende por su lenguaje, historicidad y ese estímulo constante a través de sus personajes que nos mantienen despiertos y soñando. Para la escritora fue un reto y para el lector es y será el vuelo de la imaginación con la realidad que lo circunda. Conjugar ambos es sentir, pensar y vivir. 
+
+    Caballo de Fuego narra el amor de Eliah y Matilde en un contexto socio histórico múltiple donde la lucha del desvalido se debilita por la influencia torrencial del poder sobre los recursos naturales y humanos. 
+
+    Los invitamos a disfrutar de nuestra página.
   extra:
     - name: 'og:type'
       value: website
@@ -52,14 +55,15 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Florencia Bonelli, escritora argentina, es la autora de la trilogía
-        Caballo de fuego: París, Congo, Gaza. Tres libros que llevan al lector
-        por un viaje donde se expone el amor, el odio, la vida y la muerte. A su
-        vez, narra la situación política, económica y religiosa de congoleños,
-        palestinos e israelitas en un momento determinado de la historia
-        contemporánea. Florencia hace del lector un participante emotivo por
-        vivir un amor en un contexto donde el poder y la injusticia social se
-        visten de derechos humanos.
+        Hoy, estamos iniciando nuestro blog literario.
+
+        Acompáñanos en nuestra primera página web y seguiremos descubriendo el mundo real.
+
+        En esta trilogía Caballo de Fuego: Paris, Congo y Gaza, Florencia Bonelli nos sorprende por su lenguaje, historicidad y ese estímulo constante a través de sus personajes que nos mantienen despiertos y soñando. Para la escritora fue un reto y para el lector es y será el vuelo de la imaginación con la realidad que lo circunda. Conjugar ambos es sentir, pensar y vivir. 
+
+        Caballo de Fuego narra el amor de Eliah y Matilde en un contexto socio histórico múltiple donde la lucha del desvalido se debilita por la influencia torrencial del poder sobre los recursos naturales y humanos. 
+
+        Los invitamos a disfrutar de nuestra página.
       keyName: property
     - name: 'og:image'
       value: /images/logo.png
