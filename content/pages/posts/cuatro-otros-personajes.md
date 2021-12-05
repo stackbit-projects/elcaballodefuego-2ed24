@@ -2,7 +2,7 @@
 title: Cuatro Otros Personajes
 excerpt: >-
   Ojos y  pelo negros, boca grande, piel oscura, figura esbelta, actitud desfachatada y ocurrente, tan espontánea y natural en su alegría. Es la amiga incondicional y hermana del alma de Matilde desde que eran  niñas.
-date: '2021-11-16'
+date: '2021-11-04'
 seo:
   title: Cuatro Otros Personajes
   description: >-
