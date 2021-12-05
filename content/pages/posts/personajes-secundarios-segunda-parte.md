@@ -3,10 +3,6 @@ title: Personajes Secundarios - Segunda Parte
 excerpt: >-
   La Diana/Mariyana, Sándor/Sanny y Leila provenían de una región de Bosnia poblada por islámicos. Mariyana no aceptaba que la llamaran por su nombre después de lo que le sucedió en el campo de concentración de Rogatica durante la guerra de Bosnia.
 date: '2021-11-16'
-thumb_img_path: images/2.jpg
-thumb_img_alt: Fushimi Inari Shrine in Kyoto
-content_img_path: images/2.jpg
-content_img_alt: Fushimi Inari Shrine in Kyoto
 seo:
   title: Personajes Secundarios - Segunda Parte
   description: >-
